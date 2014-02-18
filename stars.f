@@ -7,3 +7,4 @@ Types of star:
 -White dwarf
 -Main sequence
 -Black Hole
+-AGB star
