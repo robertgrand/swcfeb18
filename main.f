@@ -7,3 +7,5 @@ Here is a list of galaxy types:
 -Barred-spiral
 -Elliptical
 -Lenticular
+-Dwarf Irregular
+-Drawf Spheroidals
